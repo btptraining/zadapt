@@ -1,0 +1,71 @@
+{
+	"fileName": "id_1700752306683_399_moveControls",
+	"fileType": "change",
+	"changeType": "moveControls",
+	"moduleName": "",
+	"reference": "customer.com",
+	"packageName": "$TMP",
+	"content": {
+		"movedElements": [{
+			"selector": {
+				"id": "ui.s2p.mm.purorder.ops1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurchaseOrderFs--BasicData::FormGroup_C_PurchaseOrderFsType_PurchasingDocumentCategory",
+				"idIsLocal": false
+			},
+			"sourceIndex": 0,
+			"targetIndex": 6
+		}],
+		"source": {
+			"selector": {
+				"aggregation": "formElements",
+				"type": "sap.ui.comp.smartform.Group",
+				"id": "ui.s2p.mm.purorder.ops1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurchaseOrderFs--BasicData::FormGroup",
+				"idIsLocal": false
+			}
+		},
+		"target": {
+			"selector": {
+				"aggregation": "formElements",
+				"type": "sap.ui.comp.smartform.Group",
+				"id": "ui.s2p.mm.purorder.ops1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurchaseOrderFs--BasicData::FormGroup",
+				"idIsLocal": false
+			}
+		}
+	},
+	"selector": {
+		"id": "ui.s2p.mm.purorder.ops1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurchaseOrderFs--GeneralInfo::Form",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.purorder.ops1/changes/",
+	"projectId": "customer.com",
+	"creation": "2023-11-23T15:11:46.942Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.40",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "move"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {
+		"source": {
+			"id": "ui.s2p.mm.purorder.ops1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurchaseOrderFs--BasicData::FormGroup",
+			"idIsLocal": false
+		},
+		"target": {
+			"id": "ui.s2p.mm.purorder.ops1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurchaseOrderFs--BasicData::FormGroup",
+			"idIsLocal": false
+		},
+		"movedElements": [{
+			"id": "ui.s2p.mm.purorder.ops1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurchaseOrderFs--BasicData::FormGroup_C_PurchaseOrderFsType_PurchasingDocumentCategory",
+			"idIsLocal": false
+		}]
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

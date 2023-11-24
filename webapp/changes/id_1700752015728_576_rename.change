@@ -1,0 +1,40 @@
+{
+	"fileName": "id_1700752015728_576_rename",
+	"fileType": "change",
+	"changeType": "rename",
+	"moduleName": "",
+	"reference": "customer.com",
+	"packageName": "$TMP",
+	"content": {
+		"originalControlType": "sap.m.Label"
+	},
+	"selector": {
+		"id": "ui.s2p.mm.purorder.ops1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurchaseOrderFs--dataPoint::PurchaseOrderNetAmount::Label",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {
+		"newText": {
+			"value": "Net Value--",
+			"type": "XFLD"
+		}
+	},
+	"namespace": "apps/ui.s2p.mm.purorder.ops1/changes/",
+	"projectId": "customer.com",
+	"creation": "2023-11-23T15:06:56.868Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.40",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "rename"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

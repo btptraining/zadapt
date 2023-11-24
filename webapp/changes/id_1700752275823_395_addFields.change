@@ -1,0 +1,53 @@
+{
+	"fileName": "id_1700752275823_395_addFields",
+	"fileType": "change",
+	"changeType": "addFields",
+	"moduleName": "",
+	"reference": "customer.com",
+	"packageName": "$TMP",
+	"content": {
+		"field": {
+			"value": ["PurchaseOrderType"],
+			"valueProperty": ["value"],
+			"selector": {
+				"id": "ui.s2p.mm.purorder.ops1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurchaseOrderFs--BasicData::FormGroup_C_PurchaseOrderFsType_PurchaseOrderType",
+				"idIsLocal": false
+			},
+			"jsTypes": ["sap.ui.comp.smartfield.SmartField"],
+			"index": 0
+		}
+	},
+	"selector": {
+		"id": "ui.s2p.mm.purorder.ops1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurchaseOrderFs--BasicData::FormGroup",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/ui.s2p.mm.purorder.ops1/changes/",
+	"projectId": "customer.com",
+	"creation": "2023-11-23T15:11:16.226Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.40",
+		"sourceChangeFileName": "",
+		"compositeCommand": "id_1700752275828_396_composite",
+		"command": "addDelegateProperty"
+	},
+	"oDataInformation": {
+		"oDataServiceUri": "/sap/opu/odata/sap/C_PURCHASEORDER_FS_SRV/",
+		"propertyName": "PurchaseOrderType",
+		"entityType": "C_PurchaseOrderFsType"
+	},
+	"dependentSelector": {
+		"form": {
+			"id": "ui.s2p.mm.purorder.ops1::sap.suite.ui.generic.template.ObjectPage.view.Details::C_PurchaseOrderFs--GeneralInfo::Form",
+			"idIsLocal": false
+		}
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
